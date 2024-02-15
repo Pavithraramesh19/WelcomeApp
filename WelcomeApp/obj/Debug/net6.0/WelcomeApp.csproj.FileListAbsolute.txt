@@ -1,0 +1,14 @@
+C:\Users\epicg\source\repos\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.exe
+C:\Users\epicg\source\repos\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.deps.json
+C:\Users\epicg\source\repos\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.runtimeconfig.json
+C:\Users\epicg\source\repos\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.dll
+C:\Users\epicg\source\repos\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.pdb
+C:\Users\epicg\source\repos\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\epicg\source\repos\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfoInputs.cache
+C:\Users\epicg\source\repos\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfo.cs
+C:\Users\epicg\source\repos\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.csproj.CoreCompileInputs.cache
+C:\Users\epicg\source\repos\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.dll
+C:\Users\epicg\source\repos\WelcomeApp\WelcomeApp\obj\Debug\net6.0\refint\WelcomeApp.dll
+C:\Users\epicg\source\repos\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.pdb
+C:\Users\epicg\source\repos\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.genruntimeconfig.cache
+C:\Users\epicg\source\repos\WelcomeApp\WelcomeApp\obj\Debug\net6.0\ref\WelcomeApp.dll
